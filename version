@@ -1,0 +1,18 @@
+;
+; Version description file for plugin @@ Next Generation CMS
+;
+ 
+ID: seo_robot
+Name: SEO Robot
+Version: 0.1
+Acts: ppages, news_full, news_short, news_search, static, news:show, plugin.uprofile, plugin.comments
+File: seo_robot.php
+Config: config.php
+Type: plugin
+Description: SEO Meta Robot
+Author: KachalkinGeorg
+Author_URI: 
+Icon: <i class='fa fa-code fa-2x'></i>
+Title: SEO Robot
+Information: Метатег контролирует сканирование и индексирование страниц контента вашего сайта поисковыми системами.
+Preinstall: no
